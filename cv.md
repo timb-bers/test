@@ -51,6 +51,6 @@ console.log(ispalindrome('НАЖАЛ КАБАН НА БАКЛАЖАН'));
 ***
 *__Languages__*
 * Russian
-* Belorussian
+![Это опциональный alt-текст](https://v1.iconsearch.ru/i/top-repeat.jpg) Belorussian
 * English (**A2**)
 * Deutsch (**A2**)
