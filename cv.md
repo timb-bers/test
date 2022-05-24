@@ -13,6 +13,9 @@ I like to do coding and create something of my own, something new.
 My goal at these moment is to maximize my knowledge in this area for further growth as an employee.
 Getting a good job in a stable and developing company is my dream.
 Studying at __RS School__ is a good start!
+
+> Knowledge itself is power!
+> Francis Bacon.
 ***
 *__Skills__*
 1. HTML, BEM methodology
