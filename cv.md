@@ -1,6 +1,6 @@
 ## Aliaksandr Prudnikau ##
 ***
-https://avatars.githubusercontent.com/u/82755709?v=4
+![Это опциональный alt-текст](https://avatars.githubusercontent.com/u/82755709?v=4)
 ***
 *__Contacts__*
 * __Location:__ Vitebsk, Republic of Belarus
