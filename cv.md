@@ -1,5 +1,7 @@
 ## Aliaksandr Prudnikau ##
 ***
+https://avatars.githubusercontent.com/u/82755709?v=4
+***
 *__Contacts__*
 * __Location:__ Vitebsk, Republic of Belarus
 * __Phone:__ +375298183662
