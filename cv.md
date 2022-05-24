@@ -27,9 +27,9 @@ Nothing yet, to my great regret.
 ***
 *__Education and Courses__*
 * Vitebsk State College of Electrical Engineering
- * Operating a computer  
+   * Operating a computer  
 * Vitebsk State University named after P.M. Masherov
- * Software Engineer
+   * Software Engineer
 * CS50 video course
 * Vasiliev A.N. JavaScript in examples and tasks
 ***
