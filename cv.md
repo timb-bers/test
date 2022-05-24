@@ -7,6 +7,7 @@
 * __Email__: timberprud@gmail.com
 ***
 *__About Me__*
+
 My name is *Aleksandr*, im *26* years old. 
 I like to do coding and create something of my own, something new.
 My goal at these moment is to maximize my knowledge in this area for further growth as an employee.
@@ -21,6 +22,7 @@ Studying at __RS School__ is a good start!
 5. WordPress
 ***
 *__Work experience__*
+
 Nothing yet, to my great regret.
 ***
 *__Education and Courses__*
