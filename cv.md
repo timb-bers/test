@@ -2,7 +2,7 @@
 ***
 *__Contacts__*
 * __Location:__ Vitebsk, Republic of Belarus
-* __Phone:__ +375(29)818-36-62
+* __Phone:__ +375298183662
 * [GitHub](https://github.com/timb-bers)
 * __Email__: timberprud@gmail.com
 ***
@@ -35,6 +35,7 @@ Nothing yet, to my great regret.
 * Vitebsk State University named after P.M. Masherov
    * Software Engineer
 * CS50 video course
+* 0 to 1 video course
 * Vasiliev A.N. JavaScript in examples and tasks
 ***
 *__Code Examples__*
